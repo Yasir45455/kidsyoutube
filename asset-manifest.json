@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kidsyoutube/static/css/main.11dfc89b.css",
-    "main.js": "/kidsyoutube/static/js/main.87ad3844.js",
+    "main.css": "/kidsyoutube/static/css/main.ca88f3b2.css",
+    "main.js": "/kidsyoutube/static/js/main.3ee824f9.js",
     "static/media/login.jpg": "/kidsyoutube/static/media/login.0989bc802f1085eddd3d.jpg",
     "index.html": "/kidsyoutube/index.html",
-    "main.11dfc89b.css.map": "/kidsyoutube/static/css/main.11dfc89b.css.map",
-    "main.87ad3844.js.map": "/kidsyoutube/static/js/main.87ad3844.js.map"
+    "main.ca88f3b2.css.map": "/kidsyoutube/static/css/main.ca88f3b2.css.map",
+    "main.3ee824f9.js.map": "/kidsyoutube/static/js/main.3ee824f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.11dfc89b.css",
-    "static/js/main.87ad3844.js"
+    "static/css/main.ca88f3b2.css",
+    "static/js/main.3ee824f9.js"
   ]
 }
